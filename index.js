@@ -1,1 +1,1 @@
-window.alert("Marcus is here!!!")
+alert('Sou Pedro, bot do Luan');
